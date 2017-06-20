@@ -10,6 +10,7 @@
 
 % Zhuoyi Song, updated in 06/2017
 
+%Reference: Juusola et al 2017 ELife
 function Macro_C = Sum_MacroSecFun(SaveDataFile,Nsec)
 eval(['load ' SaveDataFile ' MacroSecRev' num2str(1) ';']);
 Macro_C = 0;bb = size(MacroSecRev1,1);

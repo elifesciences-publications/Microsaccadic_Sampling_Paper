@@ -8,6 +8,7 @@
 
 % Zhuoyi Song, updated in 06/2017
 
+%Reference: Juusola et al 2017 ELife
 function Inak = NaKPump(Vol,Nai)
 vo = Vol*0.001;
 F=96485;

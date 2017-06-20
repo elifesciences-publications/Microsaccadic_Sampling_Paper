@@ -45,6 +45,9 @@ function [out,resol,ch,tf]=snr_analysis(datafile,chans,samprate,winsize,win,filt
 % When plotting the result in Matlab, use: plot(resol,out)
 %
 % ############################################## initialize ##########################################
+
+
+%Reference: Juusola et al 2017 ELife
 if snr ==0, disp('This data is not suitable for SNR-analysis!!!'); [out]=[]; [resol]=[]; [ch]=chans; tf=1;
 else 
 

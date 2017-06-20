@@ -3,6 +3,7 @@
 
 % Zhuoyi Song, updated in 06/2017
 
+%Reference: Juusola et al 2017 ELife
 tim = 1; % tim controls simulation trials
 
 % set stochastic simulator

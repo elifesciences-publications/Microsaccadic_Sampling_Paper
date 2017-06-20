@@ -9,6 +9,7 @@
 
 % Zhuoyi Song, updated in 06/2017
 
+%Reference: Juusola et al 2017 ELife
 function [Inaca Ica] = NaCaPump_Body(Vol,Cai,Nai)
 F=96485;
 R=8.314472;

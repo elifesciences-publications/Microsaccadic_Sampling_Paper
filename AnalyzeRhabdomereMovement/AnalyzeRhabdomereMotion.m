@@ -1,7 +1,7 @@
 %Calculation of avarage movement in position of rhabdomeres
 %Input is a tiff stack, where every frame is an individual tiff.
 %Jouni Takalo 2017 
-%Article ref
+%Reference: Juusola et al 2017 ELife
 
 dirname = 'C:\Users\Mikko\Desktop\musca\may16\1\tiff'; %%folder of tiff stack
 filename ='pu10_0_780'; %% base file name of stack

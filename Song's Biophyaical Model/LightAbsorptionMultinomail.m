@@ -16,6 +16,7 @@
 
 % Zhuoyi Song, updated in 06/2017
 
+%Reference: Juusola et al 2017 ELife
 function [uu Ph1 Ph2 Ph3]= LightAbsorptionMultinomail(N_micro,u_photon,SaveDataFile)
 
 save(SaveDataFile,'u_photon');

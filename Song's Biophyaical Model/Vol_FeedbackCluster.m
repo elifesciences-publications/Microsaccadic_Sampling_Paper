@@ -3,6 +3,7 @@
 
 % Zhuoyi Song, updated 06/2017
 
+%Reference: Juusola et al 2017 ELife
 %parameters for the HH model for the cell membrane. depending on light
 %conditions, the parameters need to change accordingly. 
 

@@ -41,6 +41,7 @@
 
 % Zhuoyi Song, updated in 06/2017
 
+%Reference: Juusola et al 2017 ELife
 
 function [I_m ICa INa IMg IK Rev] = TRP_Rev_GHK_online(Ntrp,Cai,TRP_Rev_pre)
 % Initialisation 

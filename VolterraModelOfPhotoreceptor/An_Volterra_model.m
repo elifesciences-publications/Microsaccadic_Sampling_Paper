@@ -2,6 +2,8 @@
 % May 2010
 % Written by An Dau
 
+%Reference: Juusola et al 2017 ELife
+
 function [k0, k1]  = Vol_model(x, y, kernellength, windowlength)
 % kernel and window length are both in data points
 % x and y are input and output of the training data

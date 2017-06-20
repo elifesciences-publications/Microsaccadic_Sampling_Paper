@@ -2,6 +2,7 @@
 
 % Zhuoyi Song, updated in 06/2017
 
+%Reference: Juusola et al 2017 ELife
 % Parameters regulated to produce the same dynamics as Postma 1999 paper
 yini =[0    1       0        0        0        0         0   50       1         0];
 yini_online = [yini,zeros(1,5)];

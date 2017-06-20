@@ -13,6 +13,8 @@
 % field
 
 
+%Reference: Juusola et al 2017 ELife
+
 function [y,C_x1,C_y1,t] = An_simulate_r16_movement(hw,speed,a,b,c)
 
 di = 8.525; % di: distance between two dots: (8.525 degree as standard)

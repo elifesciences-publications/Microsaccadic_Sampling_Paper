@@ -1,7 +1,7 @@
 %Script for calculating intensity series from panoramic images based on yaw
 %of fly
 %Jouni Takalo 2017 
-%Article ref
+%Reference: Juusola et al 2017 ELife
 %This script takes two input:
 %rawimage: gray scale panoramic image
 %yaw: the yaw value of fly

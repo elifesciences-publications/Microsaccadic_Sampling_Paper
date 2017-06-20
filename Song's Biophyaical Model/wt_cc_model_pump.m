@@ -4,7 +4,7 @@
 
 % Modified and streamlined function based in Mikko Vahasoyrinki's model (Niven et al, Nature 2003)
 % Zhuoyi Song, updated in 06/2017
-
+%Reference: Juusola et al 2017 ELife
 function  [y Inaca Inak Ileak Inet Ica Icleak Icl Ishaker Ishab Isti]= wt_cc_model_pump(I,param,samprate)
 
 % +++++++++++ Parameters as used by this function are:

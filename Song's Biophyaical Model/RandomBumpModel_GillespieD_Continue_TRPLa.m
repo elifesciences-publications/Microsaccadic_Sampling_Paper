@@ -11,6 +11,7 @@
 
 % Zhuoyi Song, updated in 06/2017
 
+%Reference: Juusola et al 2017 ELife
 function [tstep, yy] = RandomBumpModel_GillespieD_Continue_TRPLa(nstep,y,LL,para,fnstr,la)
 %%%%LL is the light input
 %% Ca dynamics is fast and deterministic

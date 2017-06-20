@@ -12,6 +12,7 @@
 % be interupted by the second dot getting close to centre of receptive
 % field
 
+%Reference: Juusola et al 2017 ELife
 
 function [y,C_x1,C_y1,t] = An_simulate_r16_movement2(hw,speed,a,b,c)
 

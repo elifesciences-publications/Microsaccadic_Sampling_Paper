@@ -3,6 +3,8 @@
 
 Spatiotemporal vision paper
 
+Reference: Juusola et al 2017 ELife
+
 Files for using analyze and simulate in article:
 
 These files describe various methods used in article.
