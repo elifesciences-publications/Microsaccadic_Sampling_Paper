@@ -14,7 +14,7 @@
 % the physical movement of the rhabdomere (MoveA). 
 
 % Zhuoyi Song, updated in 06/2017
-
+%Reference: Juusola et al 2017 ELife
 function [y,ys,yskew,yskew_inter,C_x1,C_y1,t] = An_simulate_movement_SkewRecepJouniTube(hw,speed,a,b,c,di)
 
 fs = 1000;    % sampling rate

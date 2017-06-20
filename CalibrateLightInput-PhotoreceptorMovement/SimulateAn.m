@@ -8,6 +8,7 @@
 
 % Zhuoyi Song, updated in 06/2017
 
+%Reference: Juusola et al 2017 ELife
 clear all
 kk = 1;
 %Sp = 100:20:600; % speed of dot movement, in degrees/s

@@ -13,7 +13,8 @@
 % phase 2: slowly return backs to original position in 375ms. Phase 2 could
 % be interupted by the second dot getting close to centre of receptive
 % field
-
+% Zhuoyi Song, updated in 06/2017
+%Reference: Juusola et al 2017 ELife
 function [y,ys,yskew,yskew_inter,C_x1,C_y1,t] = Singledot_movement_SkewRecep(hw,speed,a,b,c)
 
 fs = 1000;    % sampling rate

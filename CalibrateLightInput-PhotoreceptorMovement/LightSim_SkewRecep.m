@@ -8,6 +8,7 @@
 
 % Zhuoyi Song, updated in 06/2017
 
+%Reference: Juusola et al 2017 ELife
 kk = 1;
 %Sp = [600,650,700,800,1000,1200]; % speed of moving light dots, in degree/s
 Sp = [10,20,45,60,100,200,300,400,600]; % speed of moving light dots, in degree/s
