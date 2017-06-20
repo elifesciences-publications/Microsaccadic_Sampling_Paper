@@ -8,6 +8,8 @@ Repository contains various programs, that have been used in article. The progra
 
 AnalyzeRhabdomereMovement: Folder contains a Matlab script for analyzing rhabdomere pattern movements.
 
+BiophysicalPhotoreceptorModel: Folder contains biophysical model of single photoreceptor.
+
 PanoramicIntencitySeries: Folder contains a Matlab script for generating intensity series from panoramic images.
 
 SimulateMovementofRhabdomere: Folder contains a Matlab script for simulating movement of rhabdomere.
