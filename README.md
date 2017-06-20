@@ -1,8 +1,6 @@
 # ELifeJuusolaEtAl
 
 
-Spatiotemporal vision paper
-
 Reference: Juusola et al 2017 ELife
 
 
