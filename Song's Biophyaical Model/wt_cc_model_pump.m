@@ -2,7 +2,7 @@
 % photoreceptor offline. It includes the shab, shaker and new K
 % conductances.
 
-% Modified and streamlined function based in Mikko Vahasoyrinki's model
+% Modified and streamlined function based in Mikko Vahasoyrinki's model (Niven et al, Nature 2003)
 % Zhuoyi Song, updated in 06/2017
 
 function  [y Inaca Inak Ileak Inet Ica Icleak Icl Ishaker Ishab Isti]= wt_cc_model_pump(I,param,samprate)
