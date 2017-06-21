@@ -1,4 +1,4 @@
-# ELifeJuusolaEtAl
+# Microsaccadic_Sampling_Paper
 
 
 Reference: Juusola et al 2017 ELife
