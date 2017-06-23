@@ -18,5 +18,7 @@ SimulateMovementofRhabdomere: Folder contains a Matlab script for simulating mov
 
 SNRAnalysis: Folder contains a Matlab script to analyse SNR from dataserie.  
 
+SpatialAnalysing: Folder contains Python sript for plotting spatial aliasing patterns.
+
 VolterraModelOfPhotoreceptor: Folder contains volterra model used to simulate photoreceptor responses.
 
