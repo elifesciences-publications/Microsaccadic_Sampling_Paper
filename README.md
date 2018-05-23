@@ -1,3 +1,9 @@
+
+
+### This code is associated with the paper from Juusola et al., "Microsaccadic sampling of moving image information provides Drosophila hyperacute vision". eLife, 2017. http://dx.doi.org/10.7554/eLife.26117
+
+
+
 # Microsaccadic_Sampling_Paper
 
 Reference: Juusola et al 2017 ELife
